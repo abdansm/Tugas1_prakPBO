@@ -1,4 +1,4 @@
-# Tugas1_prakPBO
+# Tugas_prakPBO
 
-link video :
+link video Tugas 1:
 https://youtu.be/GrVceH1kZaE
