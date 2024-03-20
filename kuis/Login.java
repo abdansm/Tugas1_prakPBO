@@ -40,7 +40,7 @@ class GUIde extends JFrame implements ActionListener {
             String a = fnama.getText(); 
            if(a.equals("Tukang_107")&&fpassword.getText().equals("Tukang_107")){
             pack();
-            setVisible(true);
+            new MyGui().setVisible(true);
             dispose();
            }else { lstatus.setText("Username atau Password Salah");}
         };
